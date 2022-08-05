@@ -1,16 +1,50 @@
-### Hi there 👋
+# header
+## Header 2
+### Header 3
+#### Header 4 
 
-<!--
-**ruymhdi/ruymhdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+___
 
-Here are some ideas to get you started:
+**bold**
+*italic*
+***text***
+_text_
+__text__
+___text___
+~~~impulse~~ 
+:white_check_marks:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+> 1 lvl
+>> 2 lvl
+>>> 3 lvl
+
+
+
+text list in `code` eleminated
+
+```python 
+def case1() 
+    s = ""
+    for i in range(10000)
+    s +=    tmp
+```
+
+
++ dfjdsnffs
++ kskfdsjf
++ ksdjfksdf
++ kfksdfjks
+  + dsdks
+  + kmfsfl
+    + skdsmd
+    + kfs
+  
+
+- [X] 
+- [X]   
+
+[Pylounge VK](sdakmdsksadma)
+
+![LOGO](ssilka na izobrejeniye)
